@@ -247,6 +247,8 @@ ipconfig/all
 journalctl -u isc-dhcp-server.services
 ~~~
 
-![Instalacion de servivio dhcp](/30.png)
+  ![Instalacion de servivio dhcp](/30.png)
 
-Como se puede ver a mi no me sale nada en los logs con respecto a los servicios de servidor dhcp. Sin embargo si me salen los logs si no lo hago especificamente a los servicios de servidor dhcp y lo hago de todas mis acciones en general.
+  Como se puede ver a mi no me sale nada en los logs con respecto a los servicios de servidor dhcp. Sin embargo si me salen los logs si no lo hago especificamente a los servicios de servidor dhcp y lo hago de todas mis acciones en general.
+
+  ![Instalacion de servivio dhcp](/34.png)
